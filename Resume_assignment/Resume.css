@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: #999;
+}
+li{
+    text-align: center;
+}
+
+body{
+
+    background-color: black;
+    text-align: center;
+font-family: verdana;
+    color: #999
+
+}
+#sidebar {
+    margin-left: 10px;
+}
+li{
+    text-align: center;
+}
